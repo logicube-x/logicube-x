@@ -20,4 +20,10 @@ Building Projects • Solving Problems • Learning Every Day 🚀
   <img src="https://streak-stats.demolab.com?user=logicube-x&theme=tokyonight&hide_border=true" />
 </p>
 
+## 💻 Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=logicube-x&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
 
