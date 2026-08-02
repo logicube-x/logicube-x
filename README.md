@@ -14,4 +14,10 @@ Building Projects • Solving Problems • Learning Every Day 🚀
 
 ![Snake animation](https://raw.githubusercontent.com/logicube-x/logicube-x/output/github-contribution-grid-snake.svg)
 
+## 🔥 Contribution Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=logicube-x&theme=tokyonight&hide_border=true" />
+</p>
+
 
