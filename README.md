@@ -30,7 +30,7 @@ Building Projects • Solving Problems • Learning Every Day 🚀
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=java,react,html,css,js,git,github,vscode,intellij,mysql" />
+<img src="https://skillicons.dev/icons?i=java,react,html,css,js,git,github,vscode,intelliJ,mysql" />
 
 </p>
 
