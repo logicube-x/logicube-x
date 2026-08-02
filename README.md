@@ -29,11 +29,7 @@ Building Projects • Solving Problems • Learning Every Day 🚀
 ## 🛠 Tech Stack
 
 <p align="center">
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,react,html,css,js,git,github,vscode,idea,mysql,nodejs" />
-</p>
-
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,mongodb,mysql,java,vscode,idea,git,github" />
 </p>
 
 
