@@ -9,7 +9,7 @@ Building Projects • Solving Problems • Learning Every Day 🚀
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=logicube-x&show_icons=true&theme=github_dark&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=logicube-x&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
 </p>
 
 ![Snake animation](https://raw.githubusercontent.com/logicube-x/logicube-x/output/github-contribution-grid-snake.svg)
