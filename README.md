@@ -26,4 +26,12 @@ Building Projects • Solving Problems • Learning Every Day 🚀
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=logicube-x&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
+## 🛠 Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=java,react,html,css,js,git,github,vscode,intellij,mysql" />
+
+</p>
+
 
