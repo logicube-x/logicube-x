@@ -32,4 +32,10 @@ Building Projects • Solving Problems • Learning Every Day 🚀
   <img src="https://skillicons.dev/icons?i=html,css,js,react,java,mysql,vscode,idea,git,github" />
 </p>
 
+## 📈 Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=logicube-x&theme=tokyo-night&hide_border=true" />
+</p>
+
 
