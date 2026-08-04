@@ -1,75 +1,29 @@
-<h1 align="center">I'm Arsh Mansuri</h1>
 
-<h3 align="center">
-💻 Computer Engineering Student • 🚀 Aspiring Full Stack Developer
-</h3>
+<div align="center">
+
+<!-- Animated Header Banner -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=61DAFB&center=true&vcenter=true&width=500&height=50&lines=Hey+There!+I'm+Arsh+Mansuri;Computer+Engineering+Student;Aspiring+Full+Stack+Developer;Building+%26+Learning+Everyday!" alt="Typing SVG" />
 
 <p align="center">
-Building Projects • Solving Problems • Learning Every Day ☕
+  <a href="https://github.com/logicube-x">
+    <img src="https://komarev.com/ghpvc/?username=logicube-x&color=61DAFB&style=flat-square&label=Profile+Views" alt="Profile Views" />
+  </a>
 </p>
 
 ---
 
-## 👨‍💻 About Me
+</div>
 
-- 🎓 Computer Engineering Student
-- 🌱 Currently learning **React.js** and **Java DSA**
-- 🚀 Goal: Become a Full Stack Developer
-- 💡 Interested in Web Development & Problem Solving
-- 📍 India
+### 👨‍💻 About Me
 
----
-
-## 🛠 Tech Stack
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,mongodb,mysql,java,vscode,idea,git,github" />
-</p>
-
----
-
-## 🔥 Contribution Streak
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=logicube-x&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 📈 Activity Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=logicube-x&theme=tokyo-night&hide_border=true" />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=logicube-x&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15" />
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/logicube-x/logicube-x/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
-## 📫 Connect with Me
-
-<p align="center">
-<a href="https://github.com/logicube-x">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-</p>
-
----
-
-<p align="center">
-⭐ Thanks for visiting my profile!
-</p>
+```javascript
+const arsh = {
+    code: ["JavaScript", "Java", "HTML/CSS"],
+    technologies: {
+        frontend: ["React", "TailwindCSS"],
+        backend: ["Node.js", "Express", "MongoDB"],
+        tools: ["Git", "GitHub", "VS Code", "IntelliJ IDEA"]
+    },
+    currentFocus: "Full Stack Web Development & Data Structures in Java",
+    funFact: "I turn coffee and raw logic into clean web applications!"
+};
