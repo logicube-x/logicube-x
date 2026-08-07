@@ -1,96 +1,28 @@
 <h1 align="center">Hi 👋, I'm Arsh Mansuri</h1>
 
-<h3 align="center">🚀 Aspiring Full Stack Web Developer | React Learner | Problem Solver</h3>
+<h3 align="center">
+🚀 Aspiring Full Stack Developer • React Learner • Building Every Day
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=00C4FF&center=true&vCenter=true&width=700&lines=Computer+Engineering+Student;Learning+React+%26+MERN;Building+Projects+Every+Week;Always+Learning+Something+New" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3500&pause=1200&color=58A6FF&center=true&vCenter=true&width=800&lines=Computer+Engineering+Student;Learning+React+%26+MERN;Building+Projects;Future+Full+Stack+Developer" />
 </p>
 
 ---
 
-## 👨‍💻 About Me
-
-- 🎓 Computer Engineering Student
-- 🌱 Currently learning **React** and working towards the **MERN Stack**
-- 💻 Passionate about Full Stack Development
-- 🚀 Goal: Become a Remote Software Engineer
-- ⚡ I enjoy building projects and learning by creating.
-
----
-
-# 🛠️ Tech Stack
-
-### Languages
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About Me
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,java,c,python" />
-</p>
 
-### Frontend
+💙 <b>Computer Engineering Student</b><br><br>
 
-<p>
-<img src="https://skillicons.dev/icons?i=react,tailwind,vite" />
-</p>
+💜 Currently learning <b>React</b> and progressing towards the <b>MERN Stack</b>.<br><br>
 
-### Backend
+🩵 Passionate about building modern, responsive and user-friendly web applications.<br><br>
 
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
-</p>
+💚 I enjoy learning by building real-world projects and improving every day.<br><br>
 
-### Database
-
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
-</p>
-
-### Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman" />
-</p>
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=logicube-x&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=logicube-x&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 📈 Most Used Languages
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=logicube-x&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-> Shows the percentage of languages used across all your public repositories.
-
----
-
-# 📈 Activity Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=logicube-x&theme=tokyo-night"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=logicube-x&theme=tokyonight&margin-w=15&margin-h=15&no-frame=true"/>
+⚡ Goal: <b>Become a Remote Full Stack Developer.</b>
 
 </p>
 
@@ -100,23 +32,104 @@
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/logicube-x/logicube-x/output/github-contribution-grid-snake-dark.svg" />
+<img src="https://raw.githubusercontent.com/logicube-x/logicube-x/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
 
 </p>
 
-> Make sure your Snake GitHub Action is running so this image updates automatically.
+---
+
+# 📊 GitHub Statistics
+
+<p align="center">
+
+<img height="180em"
+src="https://github-readme-stats.vercel.app/api?username=logicube-x&show_icons=true&theme=transparent&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&border_color=30363D"/>
+
+<img height="180em"
+src="https://github-readme-streak-stats.herokuapp.com/?user=logicube-x&theme=transparent&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&border=30363D"/>
+
+</p>
 
 ---
 
-# 📫 Connect with Me
+# 🛠 Tech Stack
 
-<p>
+### Languages
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,java,c" />
+</p>
+
+### Frontend
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=react,vite" />
+</p>
+
+### Backend
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+### Database
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+</p>
+
+### Tools
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman" />
+</p>
+
+---
+
+# 💻 Languages Used
+
+<p align="center">
+
+<img height="190em"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=logicube-x&layout=donut&theme=transparent&title_color=58A6FF&text_color=C9D1D9&border_color=30363D"/>
+
+</p>
+
+---
+
+# 📈 Contribution Activity
+
+<p align="center">
+
+<img
+src="https://github-readme-activity-graph.vercel.app/graph?username=logicube-x&theme=react-dark&radius=14&area=true&hide_border=true"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img
+src="https://github-profile-trophy.vercel.app/?username=logicube-x&theme=algolia&no-frame=true&no-bg=true&margin-w=18&margin-h=18"/>
+
+</p>
+
+---
+
+# 📫 Connect With Me
+
+<p align="center">
 
 <a href="https://github.com/logicube-x">
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
-<a href="https://www.linkedin.com/">
+&nbsp;&nbsp;
+
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
@@ -126,12 +139,12 @@
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=logicube-x&label=Profile+Views&color=0e75b6&style=flat"/>
+<img src="https://komarev.com/ghpvc/?username=logicube-x&label=Profile+Views&color=58A6FF&style=for-the-badge"/>
 
 </p>
 
-<p align="center">
+<h3 align="center">
 
 ⭐ Thanks for visiting my profile!
 
-</p>
+</h3>
