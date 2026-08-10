@@ -1,137 +1,73 @@
-<h1 align="center">Hi 👋, I'm Arsh Mansuri</h1>
+## 🌐 Socials:
 
-<h3 align="center">🚀 Aspiring Full Stack Web Developer | React Learner | Problem Solver</h3>
+<!-- Add your social links here -->
+
+---
+
+## 🐍 Snake Game
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=00C4FF&center=true&vCenter=true&width=700&lines=Computer+Engineering+Student;Learning+React+%26+MERN;Building+Projects+Every+Week;Always+Learning+Something+New" />
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
 
 ---
 
-## 👨‍💻 About Me
+# 💻 Tech Stack:
 
-- 🎓 Computer Engineering Student
-- 🌱 Currently learning **React** and working towards the **MERN Stack**
-- 💻 Passionate about Full Stack Development
-- 🚀 Goal: Become a Remote Software Engineer
-- ⚡ I enjoy building projects and learning by creating.
-
----
-
-# 🛠️ Tech Stack
-
-### Languages
+### 🌐 Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,java,c,python" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react" />
 </p>
 
-### Frontend
+### ⚙️ Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,tailwind,vite" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
 </p>
 
-### Backend
+### 🗄️ Database
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
 </p>
 
-### Database
+### ☕ Programming & DSA
 
 <p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+  <img src="https://skillicons.dev/icons?i=java,c" />
 </p>
 
-### Tools
+### 🛠️ Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman" />
 </p>
 
 ---
 
-# 📊 GitHub Stats
+# 📊 GitHub Stats:
 
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=logicube-x&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=logicube-x&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=logicube-x&theme=tokyonight&hide_border=true"/>
-
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=logicube-x&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-# 📈 Most Used Languages
+## 🏆 GitHub Trophies
 
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=logicube-x&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-> Shows the percentage of languages used across all your public repositories.
-
----
-
-# 📈 Activity Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=logicube-x&theme=tokyo-night"/>
-
+  <img src="https://github-profile-trophy.vercel.app/?username=logicube-x&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
 </p>
 
 ---
 
-# 🏆 GitHub Trophies
+### 🔝 Top Contributed Repo
 
 <p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=logicube-x&theme=tokyonight&margin-w=15&margin-h=15&no-frame=true"/>
-
-</p>
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/logicube-x/logicube-x/output/github-contribution-grid-snake-dark.svg" />
-
-</p>
-
-> Make sure your Snake GitHub Action is running so this image updates automatically.
-
----
-
-# 📫 Connect with Me
-
-<p>
-
-<a href="https://github.com/logicube-x">
-<img src="https://skillicons.dev/icons?i=github"/>
-</a>
-
-<a href="https://www.linkedin.com/">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
-
-</p>
-
----
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=logicube-x&label=Profile+Views&color=0e75b6&style=flat"/>
-
-</p>
-
-<p align="center">
-
-⭐ Thanks for visiting my profile!
-
+  <img src="https://github-contributor-stats.vercel.app/api?username=logicube-x&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" />
 </p>
